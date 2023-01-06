@@ -1,0 +1,5 @@
+THE NECCESSARY PACKAGES ARE:
+
+1. requests 
+2. openpyxl
+3. bs4
